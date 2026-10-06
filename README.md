@@ -6,9 +6,9 @@
   <a href="https://github.com/samarkumar4355"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/samar-kumar-0b10b5367/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/samarkumar4355/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/ssamarkumar"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://codeforces.com/profile/SamarKumar4355"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="mailto:samarkumar4355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.codechef.com/users/samar4355"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/Samar4355"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="mailto:ssamarkumarr.04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 I build software, backend systems, full-stack applications, and AI-powered solutions with a focus on problem solving and practical engineering. Experienced in modern C++, distributed backend architectures, scalable web applications, and computer vision pipelines.
@@ -81,8 +81,8 @@ Strong foundation in algorithmic problem solving and discrete mathematical think
 - **Key Concepts**: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Recursion, Divide & Conquer, Complexity Optimization
 - **Coding Profiles**:
   - **LeetCode**: [samarkumar4355](https://leetcode.com/samarkumar4355/)
-  - **CodeChef**: [ssamarkumar](https://www.codechef.com/users/ssamarkumar)
-  - **Codeforces**: [SamarKumar4355](https://codeforces.com/profile/SamarKumar4355)
+  - **CodeChef**: [samar4355](https://www.codechef.com/users/samar4355)
+  - **Codeforces**: [Samar4355](https://codeforces.com/profile/Samar4355)
   - **GitHub**: [samarkumar4355](https://github.com/samarkumar4355)
 
 ---
@@ -123,9 +123,9 @@ I enjoy contributing to open-source projects, collaborating with developers, and
   &nbsp;
   <a href="https://leetcode.com/samarkumar4355/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   &nbsp;
-  <a href="https://www.codechef.com/users/ssamarkumar"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.codechef.com/users/samar4355"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
   &nbsp;
-  <a href="https://codeforces.com/profile/SamarKumar4355"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://codeforces.com/profile/Samar4355"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   &nbsp;
-  <a href="mailto:samarkumar4355@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ssamarkumarr.04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
